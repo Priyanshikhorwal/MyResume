@@ -23,21 +23,43 @@ Motivated Java Developer with skills in Core Java, Spring Boot, MySQL, and REST 
 ## 🚀 Projects
 
 ### 🔹 Student Career Counseling System
-- Backend Developer
-- Developed a platform for basic career guidance
-- Focused on backend logic and data handling
+**Role:** Backend Developer  
+**Tech Stack:** Java, Spring Boot, MySQL  
 
-### 🔹 Platform for Developers
-- A platform to connect, collaborate, and code
-- Designed for developer networking and collaboration
+- Developed a backend system for a career guidance platform to help students explore suitable career paths  
+- Designed and implemented RESTful APIs for managing user data and career recommendations  
+- Integrated MySQL database for storing student profiles and career information  
+- Focused on clean architecture and efficient data handling  
 
-### 🔹 AI Agent
-- Built a system that performs tasks based on one-time instruction
-- Focus on automation logic
+---
 
-### 🔹 Banking Application
-- Developed CRUD operations using Spring Boot
-- Implemented REST APIs and database integration
+### 🔹 Developer Collaboration Platform
+**Tech Stack:** Java, Spring Boot (Backend), Git  
+
+- Built a platform that allows developers to connect, collaborate, and share ideas  
+- Designed backend modules for user interaction and collaboration features  
+- Implemented scalable backend structure for future feature expansion  
+- Focused on improving developer productivity and networking  
+
+---
+
+### 🔹 AI Task Automation Agent
+**Tech Stack:** Java / Logic-based system  
+
+- Developed an automation system that performs tasks based on a single user instruction  
+- Implemented logic to interpret input and execute predefined actions  
+- Explored basic concepts of automation and intelligent task execution  
+- Designed with focus on reducing manual effort  
+
+---
+
+### 🔹 Banking Application (CRUD System)
+**Tech Stack:** Spring Boot, MySQL, REST API  
+
+- Developed a banking backend application supporting CRUD operations  
+- Built REST APIs for account creation, transaction handling, and data management  
+- Integrated MySQL database for persistent storage  
+- Ensured proper API structure and error handling  
 
 ---
 
