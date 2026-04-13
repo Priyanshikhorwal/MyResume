@@ -31,6 +31,16 @@ Motivated Java Developer with skills in Core Java, Spring Boot, MySQL, and REST 
 - A platform to connect, collaborate, and code
 - Designed for developer networking and collaboration
 
+### 🔹 AI Agent
+- Built a system that performs tasks based on one-time instruction
+- Focus on automation logic
+
+### 🔹 Banking Application
+- Developed CRUD operations using Spring Boot
+- Implemented REST APIs and database integration
+
+---
+
 
 
 
