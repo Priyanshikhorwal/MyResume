@@ -62,7 +62,24 @@ Acropolis Institute of Technology & Research (RGPV)
 
 ---
 
+## 🤝 Activities
+- Member – Computer Society of India (CSI), AITR  
+- Volunteer – Acroset 2025 IEEE Conference  
+- Participant – Tech-o-Tsav Web Designing Competition  
 
+---
+
+## 💡 Strengths
+- Big Picture Thinking  
+- Adaptability  
+- Strong Core Fundamentals  
+
+---
+
+## 🎯 Areas of Interest
+Backend Development | RESTful APIs  
+
+---
 
 
 ## 🎨 Hobbies
