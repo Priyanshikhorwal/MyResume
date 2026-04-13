@@ -41,6 +41,27 @@ Motivated Java Developer with skills in Core Java, Spring Boot, MySQL, and REST 
 
 ---
 
+## 🎓 Education
+**B.Tech in Computer Science & Engineering**  
+Acropolis Institute of Technology & Research (RGPV)  
+2023 – 2027  
+
+- HSC (12th): 80.4% (2023)  
+- SSC (10th): 73% (2021)  
+
+---
+
+## 📜 Certifications
+- Oracle Database Foundations – Oracle Academy  
+- AWS Cloud Practitioner  
+
+---
+
+## 🏆 Achievements
+- 🥈 2nd Position – Tech-o-Tsav Web Designing Competition  
+
+---
+
 
 
 
